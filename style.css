@@ -1,0 +1,148 @@
+body {
+    background-size: 100%;
+    margin: 0px;
+    padding: 0px;
+    background-image: url('https://picjumbo.com/wp-content/uploads/white-marble-stone-background-texture-pattern_free_stock_photos_picjumbo_marble_free_stock_photos_picjumbo_com-2210x1473.jpg');
+}
+
+/*
+ Text CSS*/
+h1 {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+p {
+    color: #777;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+h2 {
+    font-family: 'Times New Roman', Times, serif;
+}
+
+h3 {
+    font-family: 'Times New Roman', Times, serif;
+}
+
+p {
+    color: #777;
+    font-family:Arial, Helvetica, sans-serif;
+}
+/*
+ Header CSS*/
+
+header {
+    background-color: #fff;
+    overflow: auto;
+    margin-bottom: 30px;
+    border-bottom: 2px solid #EEEFF0;
+}
+
+header div {
+    width: 960px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+header div h1, header div h2 {
+    float: left;
+    background-color: navy;
+    color: #fff;
+    margin: 0px;
+    padding: 20px 20px 20px 20px;
+}
+
+header ul {
+    list-style-type: none;
+}
+
+header li {
+    display: inline;
+}
+
+/*
+Nav CSS*/
+nav {
+    float: right;
+}
+nav ul {
+    margin: 0px;
+    padding: 29px 10px 29px 10px;
+}
+
+nav li {
+    padding: 10px;
+    border-right: 1px solid #EEEFF0;
+}
+
+nav li a {
+    color: #777;
+    font-family: Arial, Helvetica, sans-serif;
+    text-decoration: none;
+}
+
+nav li a:hover {
+    color: navy;
+}
+
+nav li a.active {
+    color: navy;
+}
+
+/*
+Body CSS */
+
+main {
+    clear: both;
+    width: 898px;
+    margin-left: auto;
+    margin-right: auto;
+    padding: 30px;
+    background: #fff;
+    overflow: auto;
+    border: 2px solid #EEEFF0;
+}
+
+main h2 {
+    margin: 10px 0px 20px 0px;
+    color: navy;
+}
+
+hr {
+    border: 2px solid #EEEFF0;
+}
+
+/*
+Footer CSS*/
+
+footer {
+    clear: both;
+    margin-left: auto;
+    margin-right: auto;
+    padding: 10px 10px 10px 10px;
+    background-color: #818181;
+    border-top: 10px solid navy;
+    position: fixed;
+    bottom: 0px;
+    right: 0px;
+    left: 0px;
+}
+
+footer div {
+    width: 960px;
+    text-align: center;
+    display: inline;
+}
+
+footer div p {
+    color: #EEEFF0;
+}
+
+
+
+.float-left {
+    float: left;
+    padding-right: 18px;
+    padding-bottom: 18px;
+}
+
